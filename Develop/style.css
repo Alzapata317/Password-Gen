@@ -135,3 +135,10 @@ button[disabled] {
     font-size: 0.8rem;
   }
 }
+
+.form {
+  display: none;
+}
+.form h2, .form label {
+  display: block;
+}
